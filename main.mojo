@@ -39,7 +39,6 @@ fn test(observer: IObserver) -> None:
 
 
 def main():
-    ...
     var con = MonitorObserver()
     make_seq(con)
 
